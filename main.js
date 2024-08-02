@@ -1,3 +1,10 @@
+/*
+    Name: Surakshya Pokharel
+    File: main.js
+    Date: 8/2/2024
+    Description: Image gallery
+*/
+
 const displayedImage = document.querySelector('.displayed-img');
 const thumbBar = document.querySelector('.thumb-bar');
 
